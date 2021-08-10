@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm IMvision</h1>
+<h1 align="center">Hi 👋, IMvision</h1>
 <h3 align="center">👀 I’m interested in Machine Learning and Deep Learning</h3>
 
 
