@@ -17,9 +17,8 @@
 ![PyTorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=Pytorch&logoColor=D00000)\
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=D00000)&nbsp;
 ![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&logoColor=D00000)&nbsp;
-![Sklearn](https://img.shields.io/badge/-scikit_learn-05122A?style=flat&logo=scikit_learn&logoColor=D00000)&nbsp;
+![Sklearn](https://img.shields.io/badge/-scikit_learn-05122A?style=flat&logo=scikit-learn&logoColor=D00000)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
