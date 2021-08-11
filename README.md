@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="file:///C:/Users/Gitesh/Downloads/WhatsApp%20Image%202021-08-11%20at%2011.51.39%20AM.jpeg" />
+ <img src="https://github.com/IMvision12/IMvision12/blob/main/img.jpeg" />
 </h1>
 <h1 align="center">Hi 👋, IMvision</h1>
 <h3 align="center">👀 I’m interested in Machine Learning and Deep Learning</h3>
