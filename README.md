@@ -10,3 +10,5 @@
 ✔  &nbsp;Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎\
 
 
+https://img.shields.io/badge/python-05192D?style=for-the-badge&logo=python&logoColor=65FF8F
+https://img.shields.io/badge/Tensorflow-05192D?style=for-the-badge&logo=Tensorflow&logoColor=65FF8F
