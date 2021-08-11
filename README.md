@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/IMvision12/IMvision12/blob/main/machine-learning-banner-web-icon-260nw-1110900704.jpg" />
+ <img src="https://github.com/IMvision12/IMvision12/blob/main/ml.jpg" />
 </h1>
 <h1 align="center">Hi 👋, I'm IMvision</h1>
 <h3 align="center">👀 I’m interested in Machine Learning and Deep Learning</h3>
