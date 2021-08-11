@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm IMvision</h1>
 <h3 align="center">👀 I’m interested in Machine Learning and Deep Learning</h3>
 
+<img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/Developer.gif" />
+
 🎓 &nbsp;I'm currently studying Computer Engineering at the PCCOE - Pimpri Chinchwad College Of Engineering.\
 🌱 &nbsp;I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖.\
 ✔  &nbsp;I’m looking to collaborate with any Open - Source data science projects\
