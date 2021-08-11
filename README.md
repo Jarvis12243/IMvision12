@@ -9,7 +9,7 @@
 ✔  &nbsp;I’m looking to collaborate with any Open - Source data science projects\
 ✔  &nbsp;Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎\
 
-<img alt="Night Coding" src="https://gph.is/g/Z5J1Ok3" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-05192D?style=for-the-badge&logo=python&logoColor=65FF8F)&nbsp;
