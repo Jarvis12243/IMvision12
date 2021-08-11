@@ -11,4 +11,4 @@
 
 
 ![Python](https://img.shields.io/badge/python-05192D?style=for-the-badge&logo=python&logoColor=65FF8F)&nbsp;
-![Tensorflow](https://img.shields.io/badge/Tensorflow-05192D?style=for-the-badge&logo=Tensorflow&logoColor=65FF8F)&nbsp;
+![Tensorflow](https://img.shields.io/badge/Tensorflow-05192D?style=for-the-badge&logo=Tensorflow&logoColor=#FFFF00)&nbsp;
