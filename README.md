@@ -7,7 +7,7 @@
 🎓 &nbsp;I'm currently studying Computer Engineering at the PCCOE - Pimpri Chinchwad College Of Engineering.\
 🌱 &nbsp;I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖.\
 ✔  &nbsp;I’m looking to collaborate with any Open - Source data science projects\
-  &nbsp;Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎\
+📄 &nbsp;Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎\
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
