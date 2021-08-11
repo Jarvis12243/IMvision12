@@ -9,4 +9,4 @@
 ✔  &nbsp;I’m looking to collaborate with any Open - Source data science projects\
 ✔  &nbsp;Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎\
 
-![C++](https://img.shields.io/badge/-Python-05122A?style=flat&logo=c++)&nbsp;
+![C++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++)&nbsp;
