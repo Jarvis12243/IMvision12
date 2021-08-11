@@ -12,3 +12,4 @@
 
 ![Python](https://img.shields.io/badge/python-05192D?style=for-the-badge&logo=python&logoColor=65FF8F)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-05192D?style=for-the-badge&logo=Tensorflow&logoColor=#FFFF00)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
