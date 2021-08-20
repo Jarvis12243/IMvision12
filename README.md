@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5&logoColor=00599C)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=Pytorch&logoColor=D00000)\
