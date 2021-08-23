@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=JavaScript&logoColor=00599C)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
-![PyTorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=Pytorch&logoColor=D00000)\
+![PyTorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=Pytorch&logoColor=D00000)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=D00000)&nbsp;
 ![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&logoColor=D00000)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-scikit_learn-05122A?style=flat&logo=scikit-learn&logoColor=D00000)&nbsp;
