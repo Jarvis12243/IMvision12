@@ -15,11 +15,8 @@
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5&logoColor=00599C)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=00599C)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)\
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
-![PyTorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=Pytorch&logoColor=D00000)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=D00000)&nbsp;
 ![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&logoColor=D00000)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-scikit_learn-05122A?style=flat&logo=scikit-learn&logoColor=D00000)&nbsp;
