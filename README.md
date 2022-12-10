@@ -12,14 +12,11 @@ I am currently a student, just started my journey in Open-Source. I'm learing Ma
 ## 🔨 Stack 
 
 🐍 Python Stack
-- Natural Language Processing: Hugging Face (transformers, datasets), Rasa, spaCy, gensim, NLTK, Stanza
-- Machine Learning: TensorFlow, Scikit-learn, fast.ai
+- Natural Language Processing: HuggingFace (transformers, datasets), spaCy, NLTK
+- Machine Learning: TensorFlow, Scikit-learn, Pytorch
 - Data Science: Pandas, Numpy
-- Demo: Matplotlib, Seaborn, Bokeh
-- Misc Tools: TensorBoard, WandB, Comet, Gradio, Streamlit
-
-R Stack
-- Data Science: ggplot2, dplyr, tidyverse, tidytext
+- Demo: Matplotlib, Seaborn
+- Misc Tools: TensorBoard, Gradio,
 
 Development
 - Flask
