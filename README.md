@@ -22,3 +22,5 @@ Development
 - Flask
 
 [![@Imvision12's Holopin board](https://holopin.me/imvision)](https://holopin.io/@imvision)
+
+[![Imvision's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imvision12&theme=merko)](https://github.com/durgesh716/github-readme-activity-graph)
