@@ -9,6 +9,8 @@ I am currently a student, just started my journey in Open-Source. I'm learing Ma
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/giphy.gif" />
 
+[![@Imvision12's Holopin board](https://holopin.me/imvision)](https://holopin.io/@imvision)
+
 ## 🔨 Stack 
 
 🐍 Python Stack
