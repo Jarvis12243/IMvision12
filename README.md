@@ -24,5 +24,6 @@ Development
 [![@Imvision12's Holopin board](https://holopin.me/imvision)](https://holopin.io/@imvision)
 
 [![Imvision's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imvision12&theme=merko)](https://github.com/durgesh716/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=imvision12&layout=compact&theme=merko)](https://github.com/imvision12/github-readme-stats)
 ![Imvision's GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=imvision12&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=imvision12&layout=compact&theme=merko)](https://github.com/imvision12/github-readme-stats)
