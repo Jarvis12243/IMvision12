@@ -9,7 +9,7 @@ I am currently a student, just started my journey in Open-Source. I'm learing Ma
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/giphy.gif" />
 
-<h3>👨‍🔨💻 Programming Languages, Frameworks, Libraries, Databases and Tools</h3>
+<h3>🔨💻 Programming Languages, Frameworks, Libraries, Databases and Tools</h3>
 
   <p>
       <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -38,8 +38,23 @@ I am currently a student, just started my journey in Open-Source. I'm learing Ma
   </p>
 </details>
 
-[![@Imvision12's Holopin board](https://holopin.me/imvision)](https://holopin.io/@imvision)
+ <h3>⚡ Contributions ⚡</h3>
+<a href="https://github.com/imvision12/github-readme-activity-graph">
+  <img align="center" width="800" height="260" src="https://github-readme-activity-graph.cyclic.app/graph?username=imvision12&theme=react&border_color=61dafb&hide_border=true" />
+</a>
 
-[![Imvision's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imvision12&theme=merko)](https://github.com/durgesh716/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=imvision12&layout=compact&theme=merko)](https://github.com/imvision12/github-readme-stats)
-![Imvision's GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=imvision12&show_icons=true&theme=merko)
+<h3>⚡ Stats ⚡</h3>
+<table margin-bottom: 50px;>
+  <tr>
+    <td>
+      <a href="https://github.com/imvision12/github-readme-stats">
+        <img align="left" src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=imvision12&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/imvision12/github-readme-stats">
+        <img align="left" width="420" src="https://github-readme-stats-two-nu-79.vercel.app/api?username=imvision12&show_icons=true&&theme=react&border_color=61dafb&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
