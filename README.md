@@ -12,7 +12,7 @@ I am currently a student, just started my journey in Open-Source. I'm learing Ma
 ## 🔨 Tech Stack 
 
 <p>
-  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
