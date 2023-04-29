@@ -9,17 +9,15 @@ I am currently a student, just started my journey in Open-Source. I'm learing Ma
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/giphy.gif" />
 
-## 🔨 Stack 
+## 🔨 Tech Stack 
 
-🐍 Python Stack
-- Natural Language Processing: HuggingFace (transformers, datasets), spaCy, NLTK
-- Machine Learning: TensorFlow, Scikit-learn, Pytorch
-- Data Science: Pandas, Numpy
-- Demo: Matplotlib, Seaborn
-- Misc Tools: TensorBoard, Gradio,
-
-Development
-- Flask
+<p>
+  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
 [![@Imvision12's Holopin board](https://holopin.me/imvision)](https://holopin.io/@imvision)
 
