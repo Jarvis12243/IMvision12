@@ -4,7 +4,11 @@
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/Developer.gif" />
 
-I am currently a student, just started my journey in Open-Source. I'm learing Machine Learning, applying it and contributing. Currently I'm learning about Natural language processing, Transformers, Attention Mechanism, image and audio generation.
+* 🎓 I am a Computer Science student, just started my journey in Open-Source.
+* 👯 I’m looking forward to collaborate on open source projects.
+* 💬 Ask me about computer vision, tensorflow, pytorch
+* 🌱 I’m currently learning: NLP, Generative AI(GPT, Stable Diffusion)
+* ✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
 
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/giphy.gif" />
