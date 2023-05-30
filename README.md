@@ -60,9 +60,7 @@
     </a>
   </div>
   <br>
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+ </p>
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
