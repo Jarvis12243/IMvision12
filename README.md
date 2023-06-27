@@ -46,9 +46,6 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/imvision12/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=imvision12&theme=react&border=61dafb&hide_border=true" alt="imvision12" />
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats-two-nu-79.vercel.app/api?username=imvision12&show_icons=true&&theme=react&border_color=61dafb&hide_border=true" />
     </a>
