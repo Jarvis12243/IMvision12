@@ -44,19 +44,32 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-  <div style="float:left">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img width="390" src="https://github-readme-stats-two-nu-79.vercel.app/api?username=imvision12&show_icons=true&&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <div style="float:right">
-    <a href="https://github.com/imvision12/github-readme-stats">
-      <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvision12&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br style="clear:both;">
+<div style="text-align: center;">
+  <table style="display: inline-block;">
+    <tr>
+      <td style="text-align: center;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img width="390" src="https://github-readme-stats.vercel.app/api?username=imvision12&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://github.com/imvision12/github-readme-stats">
+          <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvision12&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br>
+<div style="display: flex; justify-content: center;">
+     <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/notebook" alt="notebook" style="margin: 5px;" />
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/discussion" alt="discussion" style="margin: 5px;" />
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/competition" alt="competition" style="margin: 5px;" />
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/dataset" alt="dataset" style="margin: 5px;" />
+</div>
+
+
 
 
 <div align="center">
