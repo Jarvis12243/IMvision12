@@ -62,6 +62,7 @@
 </div>
 
 <br>
+<h2 align="center">⚡ Kaggle Stats ⚡</h2>
 <div style="display: flex; justify-content: center;">
      <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/notebook" alt="notebook" style="margin: 5px;" />
     <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/discussion" alt="discussion" style="margin: 5px;" />
