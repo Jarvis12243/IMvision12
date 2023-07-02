@@ -64,12 +64,10 @@
 <br>
 <h2 align="center">⚡ Kaggle Stats ⚡</h2>
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/IMvision12/IMvision12/blob/main/Notebooks.PNG" height="200" style="margin-right: 10px;">
     <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/notebook" alt="notebook" style="margin-right: 10px;">
     <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/competition" alt="competition" style="margin-right: 10px;">
     <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/dataset" alt="dataset" style="margin-right: 10px;">
     <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/discussion" alt="discussion" style="margin-right: 10px;">
-    <img src="https://github.com/IMvision12/IMvision12/blob/main/Discussion.PNG" height="200">
 </div>
 
 
