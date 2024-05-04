@@ -42,35 +42,19 @@
   </p>
 </details>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div style="text-align: center;">
-  <table style="display: inline-block;">
-    <tr>
-      <td style="text-align: center;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img width="390" src="https://github-readme-stats.vercel.app/api?username=imvision12&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-        </a>
-      </td>
-      <td style="text-align: center;">
-        <a href="https://github.com/imvision12/github-readme-stats">
-          <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvision12&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-<h2 align="center">⚡ Kaggle Stats ⚡</h2>
-<div style="display: flex; justify-content: center;">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/notebook" alt="notebook" style="margin-right: 10px;">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/competition" alt="competition" style="margin-right: 10px;">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/dataset" alt="dataset" style="margin-right: 10px;">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMvision12/discussion" alt="discussion" style="margin-right: 10px;">
+# 📊 GitHub Stats:
+<div style="display:flex; flex-direction:column;">
+    <div style="flex:1; margin-right:10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=IMvision12&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+    </div>
+    <div style="flex:1; margin-right:10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMvision12&theme=blueberry&hide_border=false" alt="GitHub Streak Stats"/>
+    </div>
+    <div style="flex:1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMvision12&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+    </div>
 </div>
 
 
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IMvision12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
