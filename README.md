@@ -71,3 +71,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IMvision12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![Snake animation](https://raw.githubusercontent.com/IMvision12/IMvision12/output/github-contribution-grid-snake-dark.svg)
