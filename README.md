@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm IMvision</h1>
-<h2 align="center">👀 I’m interested in Machine Learning and Deep Learning</h2>
+<h2 align="center">👀 I’m interested in ML/AI</h2>
 
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/Developer.gif" />
 
-* 🎓 I am a Computer Science student, just started my journey in Open-Source.
+* 🎓 A Computer Science student and an Open Source Contributor with contributions to Keras, KerasCV, Keras.io, TensorFlow, and HuggingFace.
+* 🔧 I'm currently working on an exciting new project in Machine Learning, pushing the boundaries of what's possible
 * 👯 I’m looking forward to collaborate on open source projects.
 * 💬 Ask me about computer vision, tensorflow, pytorch
-* 🌱 I’m currently learning: NLP, Generative AI(GPT, Stable Diffusion)
+* 🌱 Exploring LLMs and studying the theory behind models like GPT and LLaMA.
 * ✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
 
 
@@ -52,9 +53,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="50" height="50" />
+
 </p>
 
-
+<br>
+<h2> Blogs </h2>
+<ul>
+  <li><a href="https://keras.io/examples/vision/yolov8/">YOLOv8 Example on Keras.io</a></li>
+  <li><a href="https://keras.io/examples/vision/edsr/">EDSR Research Paper Implementation</a></li>
+  <li><a href="https://keras.io/examples/nlp/tweet-classification-using-tfdf/">Tensorflow Decision Forest Demo</a></li>
+</ul>
+<br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
