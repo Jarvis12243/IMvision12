@@ -11,9 +11,8 @@
 * ✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
 
 
-<img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/giphy.gif" />
-
 <h2>🔨💻 Programming Languages, Frameworks, Libraries, Databases and Tools</h2>
+<img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/giphy.gif" />
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50" />
