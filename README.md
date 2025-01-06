@@ -58,13 +58,24 @@
 </p>
 
 <br>
-<h2> Blogs </h2>
+<h2> Blogs 📚 </h2>
 <ul>
-  <li><a href="https://keras.io/examples/vision/yolov8/">YOLOv8 Example on Keras.io</a></li>
-  <li><a href="https://keras.io/examples/vision/edsr/">EDSR Research Paper Implementation</a></li>
-  <li><a href="https://keras.io/examples/nlp/tweet-classification-using-tfdf/">Tensorflow Decision Forest Demo</a></li>
+  <li>
+    <a href="https://keras.io/examples/vision/yolov8/">YOLOv8 Example on Keras.io 🦸‍♂️</a>
+    <p>This blog explains how to use the YOLOv8 model for object detection using KerasCV. It provides a practical example and guide to implementing YOLOv8 in your own projects.</p>
+  </li>
+  <li>
+    <a href="https://keras.io/examples/vision/edsr/">EDSR Research Paper Implementation 📝</a>
+    <p>This blog walks through the implementation of the EDSR (Enhanced Deep Super-Resolution) model from the research paper, showing how to build and train the network using Keras.</p>
+  </li>
+  <li>
+    <a href="https://keras.io/examples/nlp/tweet-classification-using-tfdf/">Tensorflow Decision Forest Demo 🌳</a>
+    <p>This blog demonstrates how to use TensorFlow Decision Forest (TF-DF) for tweet classification, showcasing an easy way to get started with decision forests for natural language processing tasks.</p>
+  </li>
 </ul>
 <br>
+
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
