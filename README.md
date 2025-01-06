@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm IMvision</h1>
-<h2 align="center">👀 I’m interested in ML/AI</h2>
+<h2 align="center">👀 I’m interested in Machine Learning/Artificial Intelligence </h2>
 
-
+<br>
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/Developer.gif" />
 
 * 🎓 A Computer Science student and an Open Source Contributor with contributions to Keras, KerasCV, Keras.io, TensorFlow, and HuggingFace.
@@ -10,7 +10,7 @@
 * 💬 Ask me about computer vision, tensorflow, pytorch
 * 🌱 Exploring LLMs and studying the theory behind models like GPT and LLaMA.
 * ✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
-
+<br>
 
 <h2>🔨💻 Programming Languages, Frameworks, Libraries, Databases and Tools</h2>
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/giphy.gif" />
