@@ -81,14 +81,23 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMvision12&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMvision12&theme=blueberry&hide_border=false" alt="GitHub Streak Stats"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=IMvision12&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMvision12&theme=blueberry&hide_border=false" alt="GitHub Streak Stats"/>
+      </td>
+    </tr>
+  </table>
 </div>
 <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMvision12&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
+
 
 
 
